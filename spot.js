@@ -47,7 +47,7 @@ let All_song = [
    {
      name: "fourth song:Zina",
      path: "zina.mp3",
-     img: "/home/simplon/souad/scraping/zina.jpeg",
+     img: "zina.jpeg",
      singer: "4"
    },
    {
