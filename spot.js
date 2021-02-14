@@ -28,32 +28,32 @@ let track = document.createElement('audio');
 let All_song = [
    {
      name:"first song:THE WEKND",
-     path:"/home/simplon/souad/scraping/weknd.mp3",
-     img:"/home/simplon/souad/scraping/wknd.jpeg",
+     path:"weknd.mp3",
+     img:"wknd.jpeg",
      singer: "1"
    },
    {
      name: "second song:MATOUB",
-     path: "/home/simplon/souad/scraping/matou.mp3",
-     img: "/home/simplon/souad/scraping/matoub.jpg",
+     path: "matou.mp3",
+     img: "matoub.jpg",
      singer: "2"
    },
    {
      name: "third song:ALLAOUA",
-     path: "/home/simplon/souad/scraping/allaoua.mp3",
-     img: "/home/simplon/souad/scraping/ALLAOUA.jpeg",
+     path: "allaoua.mp3",
+     img: "ALLAOUA.jpeg",
      singer: "3"
    },
    {
      name: "fourth song:Zina",
-     path: "/home/simplon/souad/scraping/zina.mp3",
+     path: "zina.mp3",
      img: "/home/simplon/souad/scraping/zina.jpeg",
      singer: "4"
    },
    {
      name: "fifth song:IDIR",
-     path: "/home/simplon/souad/scraping/musique.mp3",
-     img: "/home/simplon/souad/scraping/play.jpg",
+     path: "musique.mp3",
+     img: "play.jpg",
      singer: "5"
    }
 ];
